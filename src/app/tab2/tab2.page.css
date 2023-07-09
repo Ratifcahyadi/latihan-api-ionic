@@ -1,0 +1,25 @@
+ion-item {
+  border-top: 1px solid;
+  -o-border-image: linear-gradient(to right, #FFD9C0, #00f) 1;
+     border-image: linear-gradient(to right, #FFD9C0, #00f) 1;
+  cursor: pointer;
+}
+
+h1 {
+  color: #5457ff;
+}
+
+h3 {
+  color: #FFD9C0;
+}
+
+ion-card {
+  background: #213555;
+}
+
+ion-badge {
+  background: linear-gradient(45deg, #5457ff 0%, #ff1bd5 100%);
+  color: white !important;
+}
+
+/*# sourceMappingURL=tab2.page.css.map */
